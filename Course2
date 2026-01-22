@@ -1,12 +1,4 @@
-Hello you can tell us your name and the module name from course2 you want to contribute to. 
-You can choose onemodule from the list below:-
-1)Algorithm Analysis
-2)Divide and Conquer Algorithms
-3)Divide & Conquer Algorithms
-4)Greedy Algorithm 
-5)Dynamic Programming
-
-
-Pawan Dubey
-Dynamic Programming
-Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
+Hello, My Name is Jeevak Kharat from course2
+ 
+1) Dynamic Programming
+Dynamic programming (DP) is a powerful algorithmic technique used to solve complex problems by breaking them down into simpler, overlapping subproblems and storing the results to avoid redundant computations. It is a method for optimizing recursive solutions, often reducing exponential time complexities to polynomial time.
